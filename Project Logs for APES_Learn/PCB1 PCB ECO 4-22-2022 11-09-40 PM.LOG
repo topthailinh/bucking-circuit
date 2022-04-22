@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetOPTO1_1 Pin=R7-2
+Added Component: Designator=R7(RES-SMD-2512)
+Added Pin To Net: NetName=NetOPTO1_1 Pin=R7-1
+Added Pin To Net: NetName=NetC8_1 Pin=R7-2

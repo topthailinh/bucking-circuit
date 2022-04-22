@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=12V Pin=D1-K
+Removed Member From Class: ClassName=DC-DC Member=D1
+Added Component: Designator=D?(SOD123)
+Added Pin To Net: NetName=NetD2_A Pin=D?-A
+Added Pin To Net: NetName=12V Pin=D?-K
+Added Member To Class: ClassName=DC-DC Member=Component D? 1N4148
